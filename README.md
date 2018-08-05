@@ -1,10 +1,11 @@
-# front-end-handbook-2018
-[![Build Status](https://travis-ci.org/Cui-y/front-end-handbook-2018.svg)](https://travis-ci.org/Cui-y/front-end-handbook-2018.svg)
+# front-end-handbook-2018 [![Build Status](https://travis-ci.org/Cui-y/front-end-handbook-2018.svg)](https://travis-ci.org/Cui-y/front-end-handbook-2018.svg)
 
-存放2018年日常工作、学习、交流笔记，暂时先这样。
+![handbook](./Assets/handbook.png)
+
+> 存放2018年日常工作、学习、交流笔记，暂时先这样。
 
 
-说明
+## 说明
 
 [English](README.md) | [中文](REAMDE-cn.md)
 
