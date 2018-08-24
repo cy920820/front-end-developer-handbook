@@ -1,6 +1,7 @@
 ## gulpfile
 
 > gulp版本基于v4.0.0
+
 > 使用函数定义任务，最终通过gulp.series进行串并行执行任务
 
 ```javascript
