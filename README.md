@@ -28,8 +28,19 @@
 ## Efficency
 
 
+## Vue
+- [如何获取路由数组](Vue/如何获取路由数组.md)
+- [复用组件时刷新生命周期函数](Vue/复用组件时刷新生命周期函数.md)
+
+## Code
+
+
 ## Network
 
+
+## Tools
+- [gulp基础配置](Tools/gulp-bash.md)
+- [基于gulp自动化构建前端开发生产环境配置](Tools/gulpfile.md)
 
 ## Test
 
