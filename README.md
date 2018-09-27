@@ -46,6 +46,7 @@
 
 
 ## Other
+- [wifi无线信号 2.4G 和 5G的区别](Other/wifi-2.4G-5G.md)
 
 
 ## Licence
